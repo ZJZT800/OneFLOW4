@@ -93,7 +93,7 @@ void UINsInvterm::BoundaryQlQrFixField()
 
 void UINsInvterm::CmpInvcoff()
 {
-	if (inscom.icmpInv == 0) return;
+	//if (inscom.icmpInv == 0) return;
 
 	this->CmpInvMassFlux();
 
