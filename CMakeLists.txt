@@ -5,7 +5,7 @@ message(STATUS "The CMAKE_VERSION is ${CMAKE_VERSION}.")
 project( OneFLOW
          VERSION 1.0.0.0
          DESCRIPTION "OneFLOW opensource CFD"
-         HOMEPAGE_URL "https://github.com/ZJZT800/OneFLOW"
+         HOMEPAGE_URL "https://github.com/ZJZT800/OneFLOW4"
          LANGUAGES CXX
         )
 
